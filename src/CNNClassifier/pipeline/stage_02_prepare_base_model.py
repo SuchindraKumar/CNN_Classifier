@@ -1,5 +1,5 @@
-from CNNClassifier.config import configurationManger
-from CNNClassifier.components import PrepareBaseModel 
+from CNNClassifier.config import ConfigurationManager
+from CNNClassifier.components import PrepareBaseModel
 from CNNClassifier import logger
 
 try:
