@@ -12,4 +12,4 @@ data_ingestion = DataIngestion(config=data_ingestion_config)
 data_ingestion.download_file()
 data_ingestion.unzip_and_clean()
 
-logger.info(f"data ingesiton stage completed")
+logger.info(f"Data ingestion stage completed")
